@@ -1,0 +1,26 @@
+# Idea files
+.idea
+*.iml
+
+# default output directories
+classes/
+deploy/
+javadoc/
+target
+
+# lock file, a part of Oracle Credential Store Framework
+cwallet.sso.lck### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
